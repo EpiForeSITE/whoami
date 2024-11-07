@@ -23,6 +23,20 @@ Look for your Github username and add a link to your Github profile and somethin
 yourself (that you don't mind publicly sharing). Remember to only modify the line with your
 username!
 
+# ForeSITE team
+
+George
+
+Damon
+
+Anibal
+
+Andrew
+
+Willy
+
+Andrew Pulsipher
+
 # PHS7045 Advanced Programming Students (Fall 2024)
 
 - [@bohmanjulia](https://github.com/bohmanjulia) 2nd year biostatistics PhD student interested in mathematical modelling of nosocomial transmission and deep learning methods for risk prediction in cancer patients.
