@@ -23,7 +23,10 @@ Look for your Github username and add a link to your Github profile and somethin
 yourself (that you don't mind publicly sharing). Remember to only modify the line with your
 username!
 
-# ForeSITE team
+
+# ForeSITE project
+
+- [**@burgersmoke**](https://github.com/burgersmoke) My first programming language is QBasic (not very visual) but now I do more Python.  I try to be a very amateur musician!
 
 George, my website is <https://ggvy.cl>. I don't play any sports (so I a disgrace for the average Chilean), but I love music (and I think I'm good at it).
 
@@ -36,6 +39,7 @@ Anibal
 Willy
 
 Andrew Pulsipher
+
 
 # PHS7045 Advanced Programming Students (Fall 2024)
 
