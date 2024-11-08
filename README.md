@@ -23,9 +23,22 @@ Look for your Github username and add a link to your Github profile and somethin
 yourself (that you don't mind publicly sharing). Remember to only modify the line with your
 username!
 
+
 # ForeSITE project
 
 - [**@burgersmoke**](https://github.com/burgersmoke) My first programming language is QBasic (not very visual) but now I do more Python.  I try to be a very amateur musician!
+
+George, my website is <https://ggvy.cl>. I don't play any sports (so I a disgrace for the average Chilean), but I love music (and I think I'm good at it).
+
+Damon - I am learning git and github and it's cool. You can teach an old dog new tricks.
+
+Anibal
+
+[![](https://avatars.githubusercontent.com/u/521856?v=4) Andrew Redd](https://github.com/halpo) I am an expert R programmer and I am a big fan of the tidyverse. In my spare time I love playing minecraft with my boys.
+
+Willy
+
+Andrew Pulsipher
 
 
 # PHS7045 Advanced Programming Students (Fall 2024)
