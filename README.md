@@ -25,7 +25,7 @@ username!
 
 # ForeSITE team
 
-George
+George, my website is <https://ggvy.cl>. I don't play any sports (so I a disgrace for the average Chilean), but I love music (and I think I'm good at it).
 
 Damon - I am learning git and github and it's cool. You can teach an old dog new tricks.
 
