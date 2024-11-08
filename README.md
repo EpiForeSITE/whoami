@@ -27,7 +27,7 @@ username!
 
 George
 
-Damon
+Damon - I am learning git and github and it's cool. You can teach an old dog new tricks.
 
 Anibal
 
