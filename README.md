@@ -31,7 +31,7 @@ Damon
 
 Anibal
 
-Andrew
+[![](https://avatars.githubusercontent.com/u/521856?v=4) Andrew Redd](https://github.com/halpo) I am an expert R programmer and I am a big fan of the tidyverse. In my spare time I love playing minecraft with my boys.
 
 Willy
 
